@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-json-init App', () => {
+describe('angular-cli-json-config App', () => {
   let page: AppPage;
 
   beforeEach(() => {
